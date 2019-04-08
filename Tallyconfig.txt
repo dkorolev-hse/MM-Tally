@@ -1,0 +1,10 @@
+url_base=http://127.0.0.1:8088
+
+true_color=#006400
+
+cam_data=192.168.15.43:80;192.168.15.224:80;192.168.15.42:80;192.168.15.55:80
+relay_type=direct;reverse;reverse;-
+relay_token=AlarmOut_0;relay_1;AlarmOut_0;-
+login=admin
+
+password=Supervisor
